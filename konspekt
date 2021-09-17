@@ -14,6 +14,91 @@ let et = [10,12,15,12,16,11];
 let kuu = [" Jan", " Veb" , " Mar" , " Apr", "Mai", "Jun"];
 console.log(kuu[2]+" tarbimine on "+et[tahaTeada-1]);
 
+dask manger lahti tegemine ctrl+shift+ESC
 
 // for
 // while
+for (let x=1; x <= 100; x++) {
+     console.log(x)
+}
+
+let x=1;
+while(x <= 100) {
+     console.log(x)
+     x++;
+}
+const data = ["FWmcfgAWxe","KnFJXGcACq","cCYApSPiX0","iHwbq2giBx","X5Ebl6sjLf","Rxc2oFCgI4","jFtFONF7NK","b8iIhVOJl6","aGlxlytbic","30e8YSgLzd","0oj65bHiHZ","NtykZPC0DH","qgj6THRgT0","rFM7G7SJbB","lcu5UKrj7w","xurxryxn5u","7XDXFJ8Axh","RuQU6EeJyi","go3SD5CYYT","c8sOoXTa59","Vh0QfTkdKk","rrYBTg4sWc","CmeWiA73ig","iM8MD2IXle","SQk4WlTLiE","wn3JhYo93i","Hlh1Amt1jo","Rd6hiOekcE","LMKIBsBBmQ","nb72pL5LKQ","8GufbXPMRb","OO5OnLzsdP","hLddf4izXl","6x8suntNs6","8VATvVOQZR","jxL8zSOcZN","87YqnuB6Mc","sqr1WbVsWv","fLC17MbW59","tJ6Z5r6mDd","iiEffxACk7","C6w4k9AS2N","9rQTNM8xmG","x4JQLDr6hd","3bYXSm7Zgo","phTYCmMxOW","isl31Fd0SN","CZItvlfdqW"];
+undefined
+data[1]
+'KnFJXGcACq'
+data[0]
+'FWmcfgAWxe'
+
+for (x=1;x < data.length ;x++){
+    console.log(data[x])
+}
+
+const data = ["FWmcfgAWxe","KnFJXGcACq","cCYApSPiX0","iHwbq2giBx","X5Ebl6sjLf","Rxc2oFCgI4","jFtFONF7NK","b8iIhVOJl6","aGlxlytbic","30e8YSgLzd","0oj65bHiHZ","NtykZPC0DH","qgj6THRgT0","rFM7G7SJbB","lcu5UKrj7w","xurxryxn5u","7XDXFJ8Axh","RuQU6EeJyi","go3SD5CYYT","c8sOoXTa59","Vh0QfTkdKk","rrYBTg4sWc","CmeWiA73ig","iM8MD2IXle","SQk4WlTLiE","wn3JhYo93i","Hlh1Amt1jo","Rd6hiOekcE","LMKIBsBBmQ","nb72pL5LKQ","8GufbXPMRb","OO5OnLzsdP","hLddf4izXl","6x8suntNs6","8VATvVOQZR","jxL8zSOcZN","87YqnuB6Mc","sqr1WbVsWv","fLC17MbW59","tJ6Z5r6mDd","iiEffxACk7","C6w4k9AS2N","9rQTNM8xmG","x4JQLDr6hd","3bYXSm7Zgo","phTYCmMxOW","isl31Fd0SN","CZItvlfdqW"];
+undefined
+data[1]
+'KnFJXGcACq'
+data[0]
+'FWmcfgAWxe'
+
+const data = ["FWmcfgAWxe","KnFJXGcACq","cCYApSPiX0","iHwbq2giBx","X5Ebl6sjLf","Rxc2oFCgI4","jFtFONF7NK","b8iIhVOJl6","aGlxlytbic","30e8YSgLzd","0oj65bHiHZ","NtykZPC0DH","qgj6THRgT0","rFM7G7SJbB","lcu5UKrj7w","xurxryxn5u","7XDXFJ8Axh","RuQU6EeJyi","go3SD5CYYT","c8sOoXTa59","Vh0QfTkdKk","rrYBTg4sWc","CmeWiA73ig","iM8MD2IXle","SQk4WlTLiE","wn3JhYo93i","Hlh1Amt1jo","Rd6hiOekcE","LMKIBsBBmQ","nb72pL5LKQ","8GufbXPMRb","OO5OnLzsdP","hLddf4izXl","6x8suntNs6","8VATvVOQZR","jxL8zSOcZN","87YqnuB6Mc","sqr1WbVsWv","fLC17MbW59","tJ6Z5r6mDd","iiEffxACk7","C6w4k9AS2N","9rQTNM8xmG","x4JQLDr6hd","3bYXSm7Zgo","phTYCmMxOW","isl31Fd0SN","CZItvlfdqW"];
+undefined
+data[1]
+'KnFJXGcACq'
+data[0]
+'FWmcfgAWxe'
+for (x=1;x < data.length ;x++){
+    console.log(data[x])
+}
+VM1748:2 KnFJXGcACq
+VM1748:2 cCYApSPiX0
+VM1748:2 iHwbq2giBx
+VM1748:2 X5Ebl6sjLf
+VM1748:2 Rxc2oFCgI4
+VM1748:2 jFtFONF7NK
+VM1748:2 b8iIhVOJl6
+VM1748:2 aGlxlytbic
+VM1748:2 30e8YSgLzd
+VM1748:2 0oj65bHiHZ
+VM1748:2 NtykZPC0DH
+VM1748:2 qgj6THRgT0
+VM1748:2 rFM7G7SJbB
+VM1748:2 lcu5UKrj7w
+VM1748:2 xurxryxn5u
+VM1748:2 7XDXFJ8Axh
+VM1748:2 RuQU6EeJyi
+VM1748:2 go3SD5CYYT
+VM1748:2 c8sOoXTa59
+VM1748:2 Vh0QfTkdKk
+VM1748:2 rrYBTg4sWc
+VM1748:2 CmeWiA73ig
+VM1748:2 iM8MD2IXle
+VM1748:2 SQk4WlTLiE
+VM1748:2 wn3JhYo93i
+VM1748:2 Hlh1Amt1jo
+VM1748:2 Rd6hiOekcE
+VM1748:2 LMKIBsBBmQ
+VM1748:2 nb72pL5LKQ
+VM1748:2 8GufbXPMRb
+VM1748:2 OO5OnLzsdP
+VM1748:2 hLddf4izXl
+VM1748:2 6x8suntNs6
+VM1748:2 8VATvVOQZR
+VM1748:2 jxL8zSOcZN
+VM1748:2 87YqnuB6Mc
+VM1748:2 sqr1WbVsWv
+VM1748:2 fLC17MbW59
+VM1748:2 tJ6Z5r6mDd
+VM1748:2 iiEffxACk7
+VM1748:2 C6w4k9AS2N
+VM1748:2 9rQTNM8xmG
+VM1748:2 x4JQLDr6hd
+VM1748:2 3bYXSm7Zgo
+VM1748:2 phTYCmMxOW
+VM1748:2 isl31Fd0SN
+VM1748:2 CZItvlfdqW
+undefined
