@@ -1,0 +1,19 @@
+KONSPEKT
+
+// array []
+// object {}
+
+let töötaja  {
+    nimi: "Timo",
+    palk: 10
+}
+
+
+let tahaTeada = prompt("Mis kuu?");
+let et = [10,12,15,12,16,11];
+let kuu = [" Jan", " Veb" , " Mar" , " Apr", "Mai", "Jun"];
+console.log(kuu[2]+" tarbimine on "+et[tahaTeada-1]);
+
+
+// for
+// while
