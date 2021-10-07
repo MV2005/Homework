@@ -1,0 +1,33 @@
+const data =
+["FWmcfgAWxe","KnFJXGcACg"."cCYApSPiXO"
+'"¡Hwbq2giBx","X5Ebl6sjLf","Rxc20FCg|4","¡FtFON
+F7NK" "b8ilhvOJI6", "aGIxlytbic","30e8YSgLzd",."O
+oj65bHiHZ", "NtykZPCODH", "qgj6THRgTO", "rFM7
+G7SJbB". "Icu5UKrj7w"
+, "Xurxryxn5u", " 7XDXFJ8Ax
+h", "RuQU6EeJyi" "go3SD5CYYT" ,"c8sOoXTa59","
+VhoOfTkdKk"
+' "rrYBTg4sWc", "CmeWiA73ig"
+''iM
+8MD21Xle"
+' "SOk4WITLiE" "wn3JhY093i" "HIhIA
+mtlio"
+"Rd6hiOekcE" "LMKIBsBBmQ"."nb72pL5LK
+Q" "8GufbXPMRb" "005OnLzsdp" "hLddf4izXI",
+6x8suntNs6". "8VATVVOQZR" "xL&ZSOcZN"
+'"87
+YanuB6Mc","sqr1WbVsWv", "fLC17MbW59" ,"tJ6
+Z5r6mDd" "liEffxACk7" "C6W4k9AS2N" "rOTN
+M8xmG" "x4JOLDr6hd"
+,"3bYXSm7Zgo" ,"phTYC
+mMxOW" "isI31FdOSN" "CZItvlfdqW"];
+var countCode = function(letter) {
+var count=0;
+for (var i=0;i<data.length;i+=1){
+if (data[i].startsWith (letter)){
+count++;
+}
+7
+return count
+7
+}
